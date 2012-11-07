@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="open">images/openHS.png </file>
+        <file alias="print">images/PrintHS.png </file>
+        <file alias="print_preview">images/PrintPreviewHS.png </file>
+        <file alias="save">images/saveHS.png </file>
+        <file alias="html">images/HTMLPage.png </file>
+        <file alias="copy">images/CopyHS.png </file>
+        <file alias="cut">images/CutHS.png </file>
+        <file alias="redo">images/Edit_RedoHS.png </file>
+        <file alias="undo">images/Edit_UndoHS.png </file>
+        <file alias="paste">images/PasteHS.png </file>
+        <file alias="find">images/FindHS.png </file>
+        <file alias="advance_find">images/FindNext_VS.png </file>
+        <file alias="go_to_byte">images/GoToNextHS.png </file>
+        <file alias="replace">images/RenameFolderHS.png </file>
+        <file alias="preferences">images/Properties.png </file>
+        <file alias="content">images/Help.png </file>
+        <file alias="recent_file">images/OpenFile.png </file>
+    </qresource>
+</RCC>
